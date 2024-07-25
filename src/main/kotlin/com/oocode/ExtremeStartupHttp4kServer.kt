@@ -32,6 +32,7 @@ private object HomePage {
 <html>
     <body>
     <h1>Extreme startup player (http4k)</h1>
+    <p>wassup?!</p>
     <p>This is a minimal web app starting point for <a href='https://extreme-startup.fly.dev/'>Extreme startup</a></p>
     </body>
 </html>""".trim()
